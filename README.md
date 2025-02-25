@@ -1,4 +1,4 @@
-### Hi there 👋, I'm MD Nasim Khan
+### Hi there 👋, I'm Md Nasim Khan
 #### Web and Android developer.
 Highly motivated and detail-oriented Laravel Developer with a passion for web development.I excel in building robust and dynamic web applications, leveraging frameworks like Laravel
 
