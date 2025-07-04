@@ -8,5 +8,5 @@ Skills: **PHP / LARAVEL / VUE JS / JS / HTML / CSS / KOTLIN**
 - 🌱 I’m currently learning Vue js 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nasimkhan0030)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nasim--khan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NasimKhan006)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' width="50" height="100" alt='github'>](https://github.com/nasimkhan0030)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' width="50" height="100" alt='linkedin'>](https://www.linkedin.com/in/nasim--khan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' width="50" height="100" alt='twitter'>](https://twitter.com/NasimKhan006)
 
